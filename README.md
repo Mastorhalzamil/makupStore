@@ -14,27 +14,26 @@ makeup Store
 Allows customers to purchase their needs from home
 
 ### Define the scenes : 
--the login
+-the Sign in
 Sign up
 The Home screen contains of :
-Show welcome interface
+ brands and Category which contains of the Products by useing the table view which contains of add and remove items button from the cart.
 
 
-The Seconed Scene is Category which contains of the Products by useing the table view which contains of add and remove items button from the cart.
+The Seconed Scene Show me product data and price.
 
+The Third Scene is The Cart which the customer can include all his choosen products and can also removed his chosen products .
 
-The Third Scene Show me product data and price.
+The Forth Scene is Complete the order.
 
-The last Scene is The Cart which the customer can include all his choosen products and can also removed his chosen products 
-
-
+The last Scene is profile.
 
 ### User Stories :
 User logs in
 -view the Products .
 - Add Products to the shopping cart .
 - Remove a product from the shopping cart.   
--payment process
+-payment process.
 
 
 
